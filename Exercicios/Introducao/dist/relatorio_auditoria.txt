@@ -1,0 +1,10 @@
+
+======================================================================
+RELATÓRIO DE AUDITORIA
+======================
+Nome: Alvaro
+Cargo: Analista
+Categoria: Alimentação
+Valor: R$ 65.50
+Parecer: APROVADO AUTOMATICAMENTE - dentro do teto de alimentação.
+Data: 18/07/2026 12:01:46

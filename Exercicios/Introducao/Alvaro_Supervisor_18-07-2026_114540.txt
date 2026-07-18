@@ -1,0 +1,8 @@
+RELATÓRIO DE AUDITORIA
+======================
+Nome: Alvaro
+Cargo: Supervisor
+Categoria: Transporte
+Valor: R$ 85.25
+Parecer: APROVADO AUTOMATICAMENTE - dentro do teto de transporte.
+Data: 18/07/2026 11:45:40

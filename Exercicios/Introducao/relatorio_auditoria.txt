@@ -1,0 +1,29 @@
+============================================================
+RELATÓRIO DE AUDITORIA FINANCEIRA
+Nome: Alvaro
+Cargo: Analista
+Categoria: alimentação
+Valor: R$ 59.90
+Parecer: APROVADO AUTOMATICAMENTE - dentro do teto de alimentação.
+============================================================
+
+
+======================================================================
+RELATÓRIO DE AUDITORIA
+======================
+Nome: Alvaro
+Cargo: Supervisor
+Categoria: Hospedagem
+Valor: R$ 500.00
+Parecer: REQUER ANÁLISE - ultrapassou o teto de hospedagem.
+Data: 18/07/2026 11:45:09
+
+======================================================================
+RELATÓRIO DE AUDITORIA
+======================
+Nome: Alvaro
+Cargo: Supervisor
+Categoria: Transporte
+Valor: R$ 85.25
+Parecer: APROVADO AUTOMATICAMENTE - dentro do teto de transporte.
+Data: 18/07/2026 11:45:40

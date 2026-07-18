@@ -1,0 +1,8 @@
+RELATÓRIO DE AUDITORIA
+======================
+Nome: Alvaro
+Cargo: Supervisor
+Categoria: Hospedagem
+Valor: R$ 500.00
+Parecer: REQUER ANÁLISE - ultrapassou o teto de hospedagem.
+Data: 18/07/2026 11:45:09

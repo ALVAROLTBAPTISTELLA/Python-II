@@ -1,0 +1,20 @@
+[
+    {
+        "nome": "alvaro",
+        "salario_base": 11875.25,
+        "bonus": 2125.65,
+        "salario_final": 14000.9
+    },
+    {
+        "nome": "juka",
+        "salario_base": 7895.42,
+        "bonus": 1654.23,
+        "salario_final": 9549.65
+    },
+    {
+        "nome": "joakim",
+        "salario_base": 4875.32,
+        "bonus": 1478.98,
+        "salario_final": 6354.299999999999
+    }
+]
